@@ -1,4 +1,4 @@
-./db.sqlite3
-./requirements.txt
-./test.py
-./media/projects/
+db.sqlite3
+requirements.txt
+test.py
+media/projects/
